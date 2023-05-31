@@ -115,4 +115,4 @@ html {
   }
 }
 
-.container{overflow-x:hidden}
+section > .container{overflow-x:hidden}
